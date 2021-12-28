@@ -1,5 +1,8 @@
 _repo: Researches-Chemical-and-Philosophical-Chiefly-concerning-nitrous-oxide-or-dephlogisticated-ni__66955
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66955-h/images/cover.jpg
 creator:
   author:
     agent_name: Davy, Humphry, Sir
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '7672'
     url: http://www.gutenberg.org/2009/agents/7672
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66955#Researches-Chemical-and-Philosophical-Chiefly-concerning-nitrous-oxide-or-dephlogisticated-ni_
 gutenberg_issued: '2021-12-16'
 identifiers:
   gutenberg: '66955'
